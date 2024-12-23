@@ -1,6 +1,7 @@
-collections
-cv2
-matplotlib
+tensorflow
 numpy
-os
+matplotlib
 seaborn
+scikit-learn
+opencv-python
+imbalanced-learn

@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project aims to build a Convolutional Neural Network (CNN) model that can differentiate between normal lung images and those affected by pneumonia. The model leverages a dataset of lung X-ray images to detect health conditions, focusing on binary classification (normal vs. pneumonia). The ultimate goal is to assist in the early detection of pneumonia with high accuracy. The best model achieved an accuracy of **89%**.
-
+ 
 ## Dataset
 The dataset used in this project consists of chest X-ray images, divided into two categories:
 - **Normal lungs**

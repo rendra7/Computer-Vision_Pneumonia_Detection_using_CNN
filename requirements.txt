@@ -4,4 +4,4 @@ matplotlib
 seaborn
 scikit-learn
 opencv-python
-imbalanced-learn
+imbalanced-learn 
